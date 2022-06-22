@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h5 {
+  color: black;
+  font-size: 10rem;
+  letter-spacing: 1.5px;
+  font-family: 'Lobster', cursive;
+}
+p {
+  color: black;
+  font-size: 1rem;
+  letter-spacing: 1.5px;
+  font-family: 'Lobster', cursive;
+}
+   .container h9{
+    color: black;
+  font-size: 3rem;
+  letter-spacing: 1.5px;
+  font-family: 'Lobster', cursive;
+  }
+  .container h1{
+    color: black;
+  font-size: 3rem;
+  letter-spacing: 1.5px;
+  font-family: 'Lobster', cursive;
+  }
+.card-body {
+  background-color: rgb(136, 122, 119);
+}
+.card-body label {
+  color: black;
+  font-size: 1.2rem;
+  letter-spacing: 1.5px;
+  font-family: 'arial black', cursive;}
+
+  .container-fluid {
+    background-color: rgb(136, 122, 119);
+  }
+.container2 {
+  background-color: rgb(136, 122, 119);
+}
+.container3 h9{
+  color: black;
+font-size: 3rem;
+letter-spacing: 1.5px;
+font-family: 'Lobster', cursive;
+}
+.container3 h1{
+  color: black;
+font-size: 3rem;
+letter-spacing: 1.5px;
+font-family: 'Lobster', cursive;
+}
+.container3 {
+  background-color: rgb(136, 122, 119);
+}
+.container5 {
+  background-color: rgb(160, 150, 142);
+}
+.container5 h1{
+  font-family: 'Lobster', cursive;
+}
